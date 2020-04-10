@@ -1,0 +1,24 @@
+[submodule "ale"]
+	path = ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "commentary"]
+	path = commentary
+	url = https://tpope.io/vim/commentary.git
+[submodule "auto-pairs"]
+	path = auto-pairs
+	url = git://github.com/jiangmiao/auto-pairs.git
+[submodule "nerdtree-git-plugin"]
+	path = nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "unicode.vim"]
+	path = unicode.vim
+	url = git@github.com:chrisbra/unicode.vim.git
+[submodule "vim-polyglot"]
+	path = vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
+[submodule "vim-prettier"]
+	path = vim-prettier
+	url = https://github.com/prettier/vim-prettier
+[submodule "vim-windowswap"]
+	path = vim-windowswap
+	url = https://github.com/wesQ3/vim-windowswap

@@ -1,24 +1,32 @@
 [submodule "ale"]
-	path = ale
-	url = https://github.com/dense-analysis/ale.git
+  path = ale
+  url = https://github.com/dense-analysis/ale.git
+  branch = master
 [submodule "commentary"]
-	path = commentary
-	url = https://tpope.io/vim/commentary.git
+  path = commentary
+  url = https://tpope.io/vim/commentary.git
+  branch = master
 [submodule "auto-pairs"]
-	path = auto-pairs
-	url = git://github.com/jiangmiao/auto-pairs.git
+  path = auto-pairs
+  url = git://github.com/jiangmiao/auto-pairs.git
+  branch = master
 [submodule "nerdtree-git-plugin"]
-	path = nerdtree-git-plugin
-	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+  path = nerdtree-git-plugin
+  url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+  branch = master
 [submodule "unicode.vim"]
-	path = unicode.vim
-	url = git@github.com:chrisbra/unicode.vim.git
+  path = unicode.vim
+  url = git@github.com:chrisbra/unicode.vim.git
+  branch = master
 [submodule "vim-polyglot"]
-	path = vim-polyglot
-	url = https://github.com/sheerun/vim-polyglot
+  path = vim-polyglot
+  url = https://github.com/sheerun/vim-polyglot
+  branch = master
 [submodule "vim-prettier"]
-	path = vim-prettier
-	url = https://github.com/prettier/vim-prettier
+  path = vim-prettier
+  url = https://github.com/prettier/vim-prettier
+  branch = master
 [submodule "vim-windowswap"]
-	path = vim-windowswap
-	url = https://github.com/wesQ3/vim-windowswap
+  path = vim-windowswap
+  url = https://github.com/wesQ3/vim-windowswap
+  branch = master

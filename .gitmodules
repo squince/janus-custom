@@ -30,3 +30,7 @@
   path = vim-windowswap
   url = https://github.com/wesQ3/vim-windowswap
   branch = master
+[submodule "vim-jsx-pretty"]
+  path = vim-jsx-pretty
+  url = https://github.com/MaxMEllon/vim-jsx-pretty.git
+  branch = master

@@ -34,3 +34,6 @@
   path = vim-jsx-pretty
   url = https://github.com/MaxMEllon/vim-jsx-pretty.git
   branch = master
+[submodule "coc.nvim"]
+	path = coc.nvim
+	url = https://github.com/neoclide/coc.nvim

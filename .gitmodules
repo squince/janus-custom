@@ -10,10 +10,6 @@
   path = auto-pairs
   url = git://github.com/jiangmiao/auto-pairs.git
   branch = master
-[submodule "nerdtree-git-plugin"]
-  path = nerdtree-git-plugin
-  url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
-  branch = master
 [submodule "unicode.vim"]
   path = unicode.vim
   url = git@github.com:chrisbra/unicode.vim.git

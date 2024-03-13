@@ -33,3 +33,6 @@
 [submodule "coc.nvim"]
   path = coc.nvim
   url = https://github.com/neoclide/coc.nvim
+[submodule "black"]
+  path = black
+  url = https://github.com/ambv/black
